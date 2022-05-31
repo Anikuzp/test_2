@@ -1,0 +1,11 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
